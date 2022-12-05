@@ -25,6 +25,11 @@
 			"emulator-account": [
 				"HelloWorld"
 			]
+		},
+		"testnet": {
+			"testnet-account": [
+				"HelloWorld"
+			]
 		}
 	}
 }
